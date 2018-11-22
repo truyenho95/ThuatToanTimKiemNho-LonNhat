@@ -1,4 +1,3 @@
-
 function dispArr(arr) {
   let str = '<table cellpadding="10"><tr>';
   for (let i = 0; i < arr.length; ++i) {
